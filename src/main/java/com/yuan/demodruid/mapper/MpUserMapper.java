@@ -9,8 +9,8 @@ import org.springframework.stereotype.Repository;
  *  Mapper 接口
  * </p>
  *
- * @author yuan
- * @since 2019-05-11
+ * @author kangjun
+ * @since 2020-04-26
  */
 @Repository
 public interface MpUserMapper extends BaseMapper<MpUser> {

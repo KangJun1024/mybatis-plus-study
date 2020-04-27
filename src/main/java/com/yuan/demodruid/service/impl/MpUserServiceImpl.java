@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
  *  服务实现类
  * </p>
  *
- * @author yuan
- * @since 2019-05-11
+ * @author kangjun
+ * @since 2020-04-26
  */
 @Service
 public class MpUserServiceImpl extends ServiceImpl<MpUserMapper, MpUser> implements MpUserService {
